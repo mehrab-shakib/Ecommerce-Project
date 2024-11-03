@@ -27,6 +27,7 @@
     "mongoose": "^8.4.1",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.3",
-    "slugify": "^1.6.6"
+    "slugify": "^1.6.6",
+    "sslcommerz-lts-es6": "^2.0.0"
   }
 }
