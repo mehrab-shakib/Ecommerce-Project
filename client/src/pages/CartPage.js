@@ -120,6 +120,11 @@ const CartPage = () => {
                 )}
               </div>
             )}
+            <div className="mt-2">
+              
+                <button className="btn btn-primary" >Checkout</button>
+              
+            </div>
           </div>
         </div>
       </div>
